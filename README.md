@@ -6,6 +6,8 @@ This project involves training a chatbot using a neural language model to engage
 ## Model
 The chatbot model is built using a neural network architecture, specifically GPT-2 - a state-of-the-art architecture for natural language processing tasks. It leverages pre-trained word embeddings and learns to generate coherent and contextually relevant responses.
 
+The model file is very big hence i am providing the link : https://drive.google.com/file/d/1ViU_mPnqi1SP9IUBsPouNF-soVBePxt2/view?usp=sharing
+
 ## Task
 The primary task of this project is to develop a chatbot that can hold meaningful conversations with users. The chatbot's responses should be coherent, contextually accurate, and demonstrate an understanding of the conversation history. The model is trained to predict the next word in a sequence, making it capable of generating natural-sounding text.
 
